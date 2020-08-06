@@ -38,7 +38,7 @@
 
 
 
-<div align="left">
+<span align="left">
 
 
 
@@ -49,7 +49,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theCYBERbro&repo=CodeChest&theme=dark)](https://github.com/theCYBERbro/CodeChest)
 
-</div>
+</span>
 
 
 [website]: https://thecyberbro.netlify.app
