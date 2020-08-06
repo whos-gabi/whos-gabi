@@ -32,7 +32,9 @@
 ---
 
 <img align="left" alt="theCYBERbro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theCYBERbro&show_icons=true&hide_border=true&theme=dark" />
+
 <br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theCYBERbro&theme=dark)](https://github.com/theCYBERbro/github-readme-stats)
 
 
