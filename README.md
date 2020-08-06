@@ -35,9 +35,22 @@
 
 <br/>
 
+
+
+
+<div align="left">
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theCYBERbro&theme=dark)](https://github.com/theCYBERbro/github-readme-stats)
 
+
+
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theCYBERbro&repo=CodeChest&theme=dark)](https://github.com/theCYBERbro/CodeChest)
+
+</div>
+
 
 [website]: https://thecyberbro.netlify.app
 [twitter]: https://twitter.com/gabi68140123
