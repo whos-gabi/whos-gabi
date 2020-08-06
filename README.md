@@ -32,8 +32,8 @@
 ---
 
 <img align="left" alt="theCYBERbro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theCYBERbro&show_icons=true&hide_border=true&theme=dark" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/theCYBERbro/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theCYBERbro&theme=dark)](https://github.com/theCYBERbro/github-readme-stats)
 
 
 [website]: https://thecyberbro.netlify.app
