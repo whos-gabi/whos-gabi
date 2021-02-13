@@ -35,15 +35,24 @@
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theCYBERbro&theme=dark)](https://github.com/theCYBERbro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theCYBERbro&theme=dark)](https://github.com/theCYBERbro?tab=repositories)
 
 
 <br/>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theCYBERbro&repo=CodeChest&theme=dark)](https://github.com/theCYBERbro/CodeChest)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theCYBERbro&repo=StudentApp&theme=dark)](https://github.com/theCYBERbro/StudentApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theCYBERbro&repo=CppCode&theme=dark)](https://github.com/theCYBERbro/CppCode)
 
 
 
