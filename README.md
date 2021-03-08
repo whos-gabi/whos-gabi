@@ -22,16 +22,17 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
-&nbsp; <a href="https://thecyberbro.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/internet--v1.png" width="50" /></a>  
+<p style="float: left;">
+ <a href="https://thecyberbro.netlify.app/" style="float: left;" ><img src="https://img.icons8.com/color/48/000000/internet--v1.png" width="50" /></a>  
 
-&nbsp; <a href="https://www.instagram.com/thecyberbro/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="50"/></a>  
+ <a href="https://www.instagram.com/thecyberbro/" style="float: left;" ><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="50"/></a>  
 
-&nbsp; <a href="https://t.me/thecyberbro" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="50" /></a>
+ <a href="https://t.me/thecyberbro" style="float: left;"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="50" /></a>
 
-&nbsp; <a href="mailto:thecyberbro@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="50"/> </a>
+ <a href="mailto:thecyberbro@gmail.com" style="float: left;" ><img src="https://img.icons8.com/color/48/000000/gmail.png" width="50"/> </a>
 
 </p>
+
 
 
 ---
