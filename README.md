@@ -6,22 +6,9 @@
 - 🥅 Goals: Code and learn more.
 - ⚡ Fun fact: I love to draw and design things.
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="https://thecyberbro.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/internet--v1.png"width="50" /></a>  
-
-&nbsp; <a href="https://www.instagram.com/thecyberbro/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="50"/></a>  
-
-&nbsp; <a href="https://t.me/thecyberbro" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="50" /></a>
-
-&nbsp; <a href="mailto:thecyberbro@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="50"/> </a>
-
-</p>
 
 <br/>
 
-### :
 
 <h3>🛠 Tech Stack:</h3>
 
@@ -32,6 +19,20 @@
 
 <br />
 <br />
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://thecyberbro.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/internet--v1.png" width="50" /></a>  
+
+&nbsp; <a href="https://www.instagram.com/thecyberbro/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="50"/></a>  
+
+&nbsp; <a href="https://t.me/thecyberbro" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="50" /></a>
+
+&nbsp; <a href="mailto:thecyberbro@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="50"/> </a>
+
+</p>
+
 
 ---
 
