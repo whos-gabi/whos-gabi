@@ -20,20 +20,6 @@
 <br />
 <br />
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p style="float: left;">
- <a href="https://thecyberbro.netlify.app/" style="float: left;" ><img src="https://img.icons8.com/color/48/000000/internet--v1.png" width="50" /></a>  
-
- <a href="https://www.instagram.com/thecyberbro/" style="float: left;" ><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="50"/></a>  
-
- <a href="https://t.me/thecyberbro" style="float: left;"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="50" /></a>
-
- <a href="mailto:thecyberbro@gmail.com" style="float: left;" ><img src="https://img.icons8.com/color/48/000000/gmail.png" width="50"/> </a>
-
-</p>
-
-
 
 ---
 
