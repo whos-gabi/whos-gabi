@@ -25,24 +25,36 @@
 
 <img align="left" alt="whos-gabi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=whos-gabi&show_icons=true&hide_border=true&theme=dark" />
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whos-gabi&theme=dark)](https://github.com/whos-gabi?tab=repositories)
 
 <br/>
-
+<!-- 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=whos-gabi&repo=CodeChest&theme=dark)](https://github.com/whos-gabi/CodeChest)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=whos-gabi&repo=StudentApp&theme=dark)](https://github.com/whos-gabi/StudentApp)
+<br/>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=StudentAppRO&repo=StudentApp&theme=dark)](https://github.com/StudentAppRO/StudentApp)
+<br/>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=whos-gabi&repo=CppCode&theme=dark)](https://github.com/whos-gabi/CppCode)
+ -->
+<hr/>
+
+<a href="https://github.com/StudentAppRO/StudentApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StudentAppRO&repo=StudentApp&theme=dark" />
+</a>
+<br/>
+<br/>
+<a href="https://github.com/whos-gabi/CppCode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whos-gabi&repo=CppCode&theme=dark" />
+</a>
+<br/>
+<br/>
+<a href="https://github.com/whos-gabi/Ethereum-Stealer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whos-gabi&repo=Ethereum-Stealer&theme=dark" />
+</a>
+
+
+
+
 
 [website]: https://whos-gabi.netlify.app
 [telegram]: https://t.me/thecyberbro
