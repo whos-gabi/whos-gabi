@@ -56,7 +56,7 @@
 
 
 
-[website]: https://whos-gabi.netlify.app
-[telegram]: https://t.me/thecyberbro
+[website]: https://whos-gabi.github.io/portfolio/
+[telegram]: https://t.me/whos-gabi
 <!-- [youtube]: https://www.youtube.com/channel/UCHIEfPewtcI0uhQfcE80VcQ -->
 [instagram]: https://www.instagram.com/whos_gabi_/
