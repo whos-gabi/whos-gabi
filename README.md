@@ -1,10 +1,10 @@
 ## Hi , I'm [Gabi][website] 👋
 
 - 🔭 I’m currently working on improving my skills!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 Goals: Code and learn more.
-- ⚡ Fun fact: I love to draw and design things.
+- 📚 Always learning everything 🤣
+- 💪 I’m looking to collaborate with other content creators
+- 📈 Goals: Code and learn more.
+- 🦄 Fun fact: I love to draw and design things.
 
 
 <br/>
