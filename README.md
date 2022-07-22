@@ -37,10 +37,11 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=whos-gabi&repo=CppCode&theme=dark)](https://github.com/whos-gabi/CppCode)
  -->
 <hr/>
-
+<!--
 <a href="https://github.com/StudentAppRO/StudentApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StudentAppRO&repo=StudentApp&theme=dark" />
 </a>
+-->
 <br/>
 <br/>
 <a href="https://github.com/whos-gabi/CppCode">
