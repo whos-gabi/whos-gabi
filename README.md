@@ -1,10 +1,10 @@
 ## Hi , I'm [Gabi][website] 👋
 
-- 🔭 I’m currently working on improving my skills!
-- 📚 Always learning everything 🤣
-- 💪 I’m looking to collaborate with other content creators
-- 📈 Goals: Code and learn more.
-- 🦄 Fun fact: I love to draw and design things.
+🔭 Currently, I am dedicated to enhancing my professional competencies.
+📚 Committed to a path of continuous learning in various domains.
+💪 Seeking opportunities for collaboration with fellow content creators.
+📈 Objectives: To expand my coding knowledge and acquire new skills.
+🦄 Interesting note: Drawing and design are among my passions.
 
 
 <br/>
@@ -42,7 +42,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StudentAppRO&repo=StudentApp&theme=dark" />
 </a>
 -->
-<br/>
+<!-- <br/>
 <br/>
 <a href="https://github.com/whos-gabi/CppCode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whos-gabi&repo=CppCode&theme=dark" />
@@ -51,7 +51,7 @@
 <br/>
 <a href="https://github.com/whos-gabi/Ethereum-Stealer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whos-gabi&repo=Ethereum-Stealer&theme=dark" />
-</a>
+</a> -->
 
 
 
