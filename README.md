@@ -27,4 +27,26 @@ Most of my repos are private. Client work, NDAs, things that aren't finished. Wh
   <img src="https://streak-stats.demolab.com/?user=whos-gabi&hide_border=true" height="160" alt="streak">
 </picture>
 
+### Streak
 
+<!-- Live. No token, no Action. Private contributions count as soon as you flip
+     the "Private contributions" dropdown above your contribution graph. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=whos-gabi&theme=dark&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=whos-gabi&hide_border=true" alt="streak">
+</picture>
+
+### Snake
+
+<!-- Animated. Regenerated every 12h by .github/workflows/snake.yml,
+     pushed to the `output` branch so `main` stays clean. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whos-gabi/whos-gabi/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/whos-gabi/whos-gabi/output/github-snake.svg" alt="snake eating my contributions">
+</picture>
+
+### Stats
+
+<img src="./metrics.svg" alt="stats">
+<img src="./metrics.isocalendar.svg" alt="commit calendar">
+<img src="./metrics.languages.svg" alt="languages">

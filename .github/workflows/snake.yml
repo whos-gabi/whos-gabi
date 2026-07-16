@@ -1,0 +1,33 @@
+name: Snake
+
+on:
+  schedule: [{cron: "0 */12 * * *"}]
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+
+      # Reads your contribution graph — so with "Private contributions" on,
+      # the snake eats your private work too. No PAT needed.
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: whos-gabi
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Pushes to the `output` branch. Keeps `main` free of bot commits.
+      # Pin whatever version of this is current when you set it up.
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

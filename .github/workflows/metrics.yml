@@ -1,0 +1,48 @@
+name: Metrics
+
+on:
+  schedule: [{cron: "0 4 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+
+      # Header + activity + community.
+      # NOTE: "repositories" is deliberately NOT in `base` — that's the section
+      # that would print repo names. Counts stay, names don't.
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: whos-gabi
+          base: header, activity, community
+          config_timezone: Europe/Bucharest
+
+      # Isometric commit calendar, full year.
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: whos-gabi
+          base: ""
+          config_timezone: Europe/Bucharest
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      # Languages, derived from your recent commit diffs rather than repo bytes.
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: whos-gabi
+          base: ""
+          config_timezone: Europe/Bucharest
+          plugin_languages: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
