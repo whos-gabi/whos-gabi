@@ -16,23 +16,10 @@ Most of my repos are private. Client work, NDAs, things that aren't finished. Wh
 [LinkedIn](https://linkedin.com/in/baghici/) · [WhatsApp](https://wa.me/40730792946)
 
 
-### Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=whos-gabi&show_icons=true&hide_border=true&count_private=true&hide=issues&theme=github_dark">
-  <img src="https://github-readme-stats.vercel.app/api?username=whos-gabi&show_icons=true&hide_border=true&count_private=true&hide=issues" height="160" alt="stats">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=whos-gabi&hide_border=true&theme=github-dark">
-  <img src="https://streak-stats.demolab.com/?user=whos-gabi&hide_border=true" height="160" alt="streak">
-</picture>
-
 ### Streak
 
-<!-- Live. No token, no Action. Private contributions count as soon as you flip
-     the "Private contributions" dropdown above your contribution graph. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=whos-gabi&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=whos-gabi&theme=github_dark&hide_border=true">
   <img src="https://streak-stats.demolab.com?user=whos-gabi&hide_border=true" alt="streak">
 </picture>
 
