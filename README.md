@@ -36,4 +36,3 @@ Most of my repos are private. Client work, NDAs, things that aren't finished. Wh
 
 <img src="./metrics.svg" alt="stats">
 <img src="./metrics.isocalendar.svg" alt="commit calendar">
-<img src="./metrics.languages.svg" alt="languages">
